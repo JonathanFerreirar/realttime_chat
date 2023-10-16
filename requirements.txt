@@ -1,0 +1,9 @@
+asgiref==3.7.2
+channels==4.0.0
+channels-redis==4.1.0
+Django==4.2.6
+msgpack==1.0.7
+PySimpleGUI==4.60.5
+redis==5.0.1
+sqlparse==0.4.4
+termcolor==2.3.0
